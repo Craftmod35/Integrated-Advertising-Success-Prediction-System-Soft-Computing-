@@ -1,0 +1,6 @@
+data/
+.venv/
+.venv_new/
+.venv_tf/
+**/__pycache__/
+.vscode/
