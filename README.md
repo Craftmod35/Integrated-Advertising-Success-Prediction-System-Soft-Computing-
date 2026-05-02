@@ -12,4 +12,4 @@ This project is a comprehensive **Decision Support System** developed as part of
 ## 🛠 Tech Stack
 
 - **Frameworks**: TensorFlow, Scikit-Fuzzy, MiniSom.
-- **Environment**: Developed on **ASUS TUF F15** using Python 3.12.
+- **Environment**: Developed using Python 3.12.
